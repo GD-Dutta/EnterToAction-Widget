@@ -26,5 +26,4 @@ The following options can be configured:
 ### Known bugs
 
 none at present
-# EnterToAction-Widget
-# EnterToAction-Widget
+
